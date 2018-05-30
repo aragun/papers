@@ -7,3 +7,7 @@ IETF and other publications.
 * Microsoft Azure Storage http://sigops.org/sosp/sosp11/current/2011-Cascais/printable/11-calder.pdf
 * Double-Checked Locking http://www.aristeia.com/Papers/DDJ_Jul_Aug_2004_revised.pdf
 * Erlang http://erlang.org/download/armstrong_thesis_2003.pdf
+
+ML
+
+* https://research.fb.com/publications/practical-lessons-from-predicting-clicks-on-ads-at-facebook/
