@@ -11,3 +11,4 @@ IETF and other publications.
 ML
 
 * https://research.fb.com/publications/practical-lessons-from-predicting-clicks-on-ads-at-facebook/
+* Offline and Online Evaluation Metrics https://chbrown.github.io/kdd-2013-usb/kdd/p1294.pdf
