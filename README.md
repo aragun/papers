@@ -8,8 +8,12 @@ IETF and other publications.
 * Double-Checked Locking http://www.aristeia.com/Papers/DDJ_Jul_Aug_2004_revised.pdf
 * Erlang http://erlang.org/download/armstrong_thesis_2003.pdf
 
+System Design
+* Numbers you should know https://gist.github.com/jboner/2841832
+* Dynamo https://s3.amazonaws.com/systemsandpapers/papers/amazon-dynamo-sosp2007.pdf
+
 ML
 
 * https://research.fb.com/publications/practical-lessons-from-predicting-clicks-on-ads-at-facebook/
 * Offline and Online Evaluation Metrics https://chbrown.github.io/kdd-2013-usb/kdd/p1294.pdf
-* Dynamo https://s3.amazonaws.com/systemsandpapers/papers/amazon-dynamo-sosp2007.pdf
+
