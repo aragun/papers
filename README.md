@@ -17,3 +17,6 @@ ML
 * https://research.fb.com/publications/practical-lessons-from-predicting-clicks-on-ads-at-facebook/
 * Offline and Online Evaluation Metrics https://chbrown.github.io/kdd-2013-usb/kdd/p1294.pdf
 
+Image Segmentation
+* A 2017 Review of DL techniques for Semantic Segmentation https://arxiv.org/abs/1704.06857
+
