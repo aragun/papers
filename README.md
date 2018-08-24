@@ -22,3 +22,5 @@ Image Segmentation
 * DeepLab (highlight: atrous convolutions, depthwise separable convolution) https://ai.googleblog.com/2018/03/semantic-image-segmentation-with.html
 * PSPNet (highlight: pyramid pooling module) https://arxiv.org/abs/1612.01105
 * A Brief History of R-CNN inspired segmentation https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4
+* CReLU (https://arxiv.org/pdf/1603.05201.pdf)
+* Speed/accuracy tradeoffs for modern convolutional object detectors (https://arxiv.org/pdf/1611.10012.pdf)
