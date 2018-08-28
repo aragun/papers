@@ -26,3 +26,4 @@ Image Segmentation
 * Speed/accuracy tradeoffs for modern convolutional object detectors (https://arxiv.org/pdf/1611.10012.pdf)
 * RetinaNet (https://arxiv.org/abs/1708.02002)
 * FPN for Object Detection (https://arxiv.org/abs/1612.03144)
+* Deep residual learning for image recognition https://arxiv.org/abs/1512.03385
