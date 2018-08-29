@@ -27,3 +27,4 @@ Image Segmentation
 * RetinaNet (https://arxiv.org/abs/1708.02002)
 * FPN for Object Detection (https://arxiv.org/abs/1612.03144)
 * Deep residual learning for image recognition https://arxiv.org/abs/1512.03385
+* Xception: Deep Learning with Depthwise Separable Convolutions (https://arxiv.org/abs/1610.02357)
