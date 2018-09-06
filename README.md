@@ -28,3 +28,5 @@ Object Detection
 * FPN for Object Detection (https://arxiv.org/abs/1612.03144)
 * Deep residual learning for image recognition https://arxiv.org/abs/1512.03385
 * Xception: Deep Learning with Depthwise Separable Convolutions (https://arxiv.org/abs/1610.02357)
+* Review of Semantic Segmentation (https://link.springer.com/article/10.1007/s13735-017-0141-z)
+* A 2017 guide to Semantic Segmentation (http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
